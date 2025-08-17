@@ -6,8 +6,6 @@ It's a  Simple Weather Application made by using HTML, CSS &amp; JavaScript.
 
 The app is created by Mohseen Hawaldar
 
-Live Demo:  (https://github.com/mohseenalihawaldar-dev/weathermap.api)
-
 ## Like repo if you like the design.
 
 
